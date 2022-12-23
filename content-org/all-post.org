@@ -1,0 +1,18 @@
+#+hugo_base_dir: ../
+#+hugo_series: post
+#+TODO: TODO DONE
+* Blog Ideas
+** DONE My first blog
+CLOSED: [2022-12-23 Fri 10:44]
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-first-blog
+:END:
+
+*** headline 1
+**** title
+*** headline 2
+*** headline 3
+**** headfd f
+[[https://www.baidu.com][baidu]]
+
+lalala
