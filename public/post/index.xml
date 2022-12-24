@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Even - A super concise theme for Hugo</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Even - A super concise theme for Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 24 Dec 2022 15:20:21 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>教你用 hugo &#43; org-mode 创建博客</title>
+      <link>http://localhost:1313/post/%E6%95%99%E4%BD%A0%E7%94%A8-hugo-plus-org-mode-%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</link>
+      <pubDate>Sat, 24 Dec 2022 15:20:21 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E6%95%99%E4%BD%A0%E7%94%A8-hugo-plus-org-mode-%E5%88%9B%E5%BB%BA%E5%8D%9A%E5%AE%A2/</guid>
+      <description>上期内容:用hugo写博客 本篇博客的前提是会 org-mode 的基础语法，如果不太清楚可以看我后期写的 org-mode使用指南 或者直接使用更加方便的 markdown 视频可</description>
+    </item>
+    
+  </channel>
+</rss>
